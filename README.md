@@ -93,7 +93,7 @@ It’s simple, efficient, and built for real-world hotel needs.
 For inquiries, demos, or support:
 
 * 🌐 Website: **Jhattse Business Hotel Software**
-* 📧 Email: [support@jhattse.com](mailto:connect@jhattse.com)
+* 📧 Email: [connect@jhattse.com](mailto:connect@jhattse.com)
 
 ---
 
