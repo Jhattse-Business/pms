@@ -73,7 +73,7 @@ We’re a small team from Dehradun who built this for Indian hotels like yours:
 - 📱 **Support**: [+91 96344 10412](https://wa.me/919634410412)
 - 📱 **Onboarding**: [+91 73107 22298](https://wa.me/917310722298)
 - ✉️ **Email**: contact@esangrah.com
-- 🏢 **Company**: ESANGARH TECHNOLOGIES PRIVATE LIMITED, Dehradun, Uttarakhand
+- 🏢 **Company**: ESANGRAH TECHNOLOGIES PRIVATE LIMITED, Dehradun, Uttarakhand
 
 **Hours**: 9 AM – 9 PM IST (7 days)  
 💬 *Prefer WhatsApp? Message "Demo" — we reply in <5 minutes.*
@@ -83,9 +83,9 @@ We’re a small team from Dehradun who built this for Indian hotels like yours:
 ## 🌐 Quick Links
 
 - 🌐 Full Product Page: https://business.jhattse.com/products/hotel-management-software
-- 📺 2-min Demo Video: https://business.jhattse.com/demo-video
+- 📺 2-min Demo Video: [https://business.jhattse.com/demo-video](https://www.youtube.com/watch?v=fiePTPj-NTQ)
 - 📚 Help Center (Hindi & English): https://help.jhattse.com
-- ⭐ Google Reviews: [4.8/5 ★ from 300+ Indian hotels](https://business.jhattse.com/reviews)
+- ⭐ Google Reviews: [4.8/5 ★ from 4059+ Indian hotels](https://business.jhattse.com/reviews)
 
 ---
 
