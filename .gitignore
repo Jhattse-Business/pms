@@ -1,5 +1,28 @@
-The provided file changes appear to contain invalid or corrupted file names (strings starting with quotation marks and containing special characters like "Jhattse"). These do not represent legitimate files that would typically be part of a Git repository.
+# Examples 1:
+# Project with only source/config files
+# (empty output)
 
-Given that the file changes do not represent valid build artifacts, dependency directories, or other files that should be ignored, and following the rule that if the list contains only source/config files or invalid entries, no additional ignores are needed beyond what's already present.
-
-Since the current .gitignore is empty and the file changes don't represent valid files to ignore, the result is an empty .gitignore.
+# Example 2:
+# Project with artifacts
+# Compiled and build artifacts
+*.pyc
+__pycache__/
+*.o
+*.obj
+dist/
+build/
+# Dependencies
+.venv/
+venv/
+node_modules/
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+# Environment
+.env
+.env.local
+.env.*
+# Editors
+.vscode/
+.idea/
